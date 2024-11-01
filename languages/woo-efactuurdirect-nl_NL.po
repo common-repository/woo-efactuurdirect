@@ -1,0 +1,273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-08-28 16:00+0300\n"
+"Last-Translator: EFD <info@refa.nl>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 2.0.2\n"
+
+#: woocommerce-efactuurdirect.php:57
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-wc-efactuurdirect.php:15
+msgid "Efactuurdirect API"
+msgstr "Efactuurdirect API"
+
+#: includes/class-wc-efactuurdirect.php:16
+msgid "Create contacts and invoices from WooCommerce orders."
+msgstr "Maak contacten en facturen vanuit WooCommerce bestellingen."
+
+#: includes/class-wc-efactuurdirect.php:139
+msgid "House Number"
+msgstr "Huisnummer"
+
+#: includes/class-wc-efactuurdirect.php:140
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/class-wc-efactuurdirect.php:154
+msgid "No parameters specified."
+msgstr "Geen parameters opgegeven."
+
+#: includes/class-wc-efactuurdirect.php:158
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende rechten om toegang te krijgen tot deze pagina."
+
+#: includes/class-wc-efactuurdirect.php:214 includes/class-wc-efactuurdirect.php:215 includes/class-wc-efactuurdirect.php:220
+#: includes/class-wc-efactuurdirect.php:221 includes/class-wc-efactuurdirect.php:330 includes/class-wc-efactuurdirect.php:336
+#: includes/class-wc-efactuurdirect.php:337
+msgid "Download"
+msgstr "Download"
+
+#: includes/class-wc-efactuurdirect.php:226 includes/class-wc-efactuurdirect.php:329 includes/class-wc-efactuurdirect.php:351
+msgid "Invoice"
+msgstr "Factuur"
+
+#: includes/class-wc-efactuurdirect.php:311
+msgid "Efactuurdirect invoice:"
+msgstr "Efactuurdirect factuur"
+
+#: includes/class-wc-efactuurdirect.php:318 includes/class-wc-efactuurdirect.php:931 includes/class-wc-efactuurdirect.php:940
+msgid "Status:"
+msgstr "Status:"
+
+#: includes/class-wc-efactuurdirect.php:333
+msgid "Preparing invoice "
+msgstr "Factuur voorbereiden "
+
+#: includes/class-wc-efactuurdirect.php:340
+msgid "Concept"
+msgstr "Concept"
+
+#: includes/class-wc-efactuurdirect.php:343
+msgid ""
+"The invoice could not be loaded. Please check if the invoice is not deleted in efactuurdirect and the API connection is working.<br/>"
+msgstr ""
+"De factuur kon niet worden geladen. Controleer of de factuur niet is verwijderd in efactuurdirect en de API verbinding werkt.<br/>
+
+#: includes/class-wc-efactuurdirect.php:356
+msgid "The invoice is not created"
+msgstr "De factuur is niet aangemaakt"
+
+#: includes/class-wc-efactuurdirect.php:368
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: includes/class-wc-efactuurdirect.php:369
+msgid "Your username in efactuurdirect"
+msgstr "Je gebruikersnaam in efactuurdirect"
+
+#: includes/class-wc-efactuurdirect.php:373
+msgid "Subdomain"
+msgstr "Subdomein"
+
+#: includes/class-wc-efactuurdirect.php:374
+msgid "Your efactuurdirect account subdomain: https://<b>[subdomain]</b>.efactuurdirect.nl"
+msgstr "Je efactuurdirect account subdomein: https://<b>[subdomein]</b>.efactuurdirect.nl"
+
+#: includes/class-wc-efactuurdirect.php:378
+msgid "API key"
+msgstr "API Sleutel"
+
+#: includes/class-wc-efactuurdirect.php:379
+msgid "Your efactuurdirect API key"
+msgstr "Je efactuurdirect API sleutel"
+
+#: includes/class-wc-efactuurdirect.php:383
+msgid "Automatically create invoice"
+msgstr "Maak automatisch een factuur"
+
+#: includes/class-wc-efactuurdirect.php:384
+msgid "Select at which status an invoice will be created"
+msgstr "Selecteer bij welke status een factuur zal worden aangemaakt"
+
+#: includes/class-wc-efactuurdirect.php:391
+msgid "Invoice type"
+msgstr "Type factuur"
+
+#: includes/class-wc-efactuurdirect.php:392
+msgid "Select the invoice type to be used in efactuurdirect"
+msgstr "Selecteer het type factuur in efactuurdirect"
+
+#: includes/class-wc-efactuurdirect.php:399
+msgid "Invoice date"
+msgstr "Factuurdatum"
+
+#: includes/class-wc-efactuurdirect.php:400
+msgid "Select the invoice date to be used"
+msgstr "Selecteer welke factuurdatum moet worden gebruikt"
+
+#: includes/class-wc-efactuurdirect.php:404
+msgid "Invoice send date"
+msgstr "Factuur verzend datum"
+
+#: includes/class-wc-efactuurdirect.php:405
+msgid "Order date"
+msgstr "Datum van bestelling"
+
+#: includes/class-wc-efactuurdirect.php:409
+msgid "Product unit of measure"
+msgstr "Product eenheid"
+
+#: includes/class-wc-efactuurdirect.php:410
+msgid "Select the unit of measure to be used for products"
+msgstr "Selecteer de eenheid om voor producten te gebruiken"
+
+#: includes/class-wc-efactuurdirect.php:416
+msgid "Zero rate tax"
+msgstr "Geen btw"
+
+#: includes/class-wc-efactuurdirect.php:417
+msgid "Select the vat value to be used in efactuurdirect for zero rate tax"
+msgstr "Selecteer de btw waarde om in efactuurdirect te gebruiken bij geen btw"
+
+#: includes/class-wc-efactuurdirect.php:440
+msgid "Connection status:"
+msgstr "Verbindingsstatus:"
+
+#: includes/class-wc-efactuurdirect.php:443
+msgid "OK"
+msgstr "OK"
+
+#: includes/class-wc-efactuurdirect.php:446
+msgid "ERROR (Invalid username or API key)"
+msgstr "FOUT (Ongeldige gebruikersnaam of API sleutel)"
+
+#: includes/class-wc-efactuurdirect.php:449
+msgid "ERROR (Invalid subdomain)"
+msgstr "FOUT (Ongeldige subdomein)"
+
+#: includes/class-wc-efactuurdirect.php:461 includes/class-wc-efactuurdirect.php:513 includes/class-wc-efactuurdirect.php:519
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/class-wc-efactuurdirect.php:755
+#, php-format
+msgid "Tax rate of %.2f percent is not available in efactuurdirect"
+msgstr "Btw tarief van %.2f is niet beschikbaar in efactuurdirect"
+
+#: includes/class-wc-efactuurdirect.php:793
+msgid "Efactuurdirect error"
+msgstr "Foutmelding efactuurdirect"
+
+#: includes/class-wc-efactuurdirect.php:828
+msgid "Cannot connect to the efactuurdirect API"
+msgstr "Er kan geen verbinding worden gemaakt met de efactuurdirect API"
+
+#: includes/class-wc-efactuurdirect.php:868
+msgid "Invoice created"
+msgstr "Factuur gemaakt"
+
+#: includes/library/additionalFunctions.php:195
+msgid "Create concept invoice"
+msgstr "Maak een conceptfactuur"
+
+#: includes/library/additionalFunctions.php:196
+msgid "Create concept already paid invoice"
+msgstr "Maak een reeds betaalde conceptfactuur"
+
+#: includes/library/additionalFunctions.php:197
+msgid "Send invoice"
+msgstr "Verstuur factuur"
+
+#: includes/library/additionalFunctions.php:198
+msgid "Send already paid invoice"
+msgstr "Verstuur een reeds betaalde factuur"
+
+#: includes/library/additionalFunctions.php:207
+msgid "Manually"
+msgstr "Handmatig"
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:358
+msgid "Check for updates"
+msgstr "Controleer op updates"
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:405
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr " De %s plugin is up to date."
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:407
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Een nieuwe versie van de %s plugin is beschikbaar."
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:409
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Onbekende update; controleer status \\\"%s\\\""
+
+#: plugin-update-checker/Puc/v4p1/Vcs/PluginUpdateChecker.php:83
+msgid "There is no changelog available."
+msgstr "Er is geen changelog beschikbaar."
+
+msgid "Please enable: \"Round tax at subtotal level, instead of rounding per line\" at Tax setting to use correct vat calculation for invoices."
+msgstr ""
+"Activeer \"Rond belastingen af bij subtotalen, in plaats van per regel\" bij Belasting instellingen om de juiste btw rekenmethode voor facturen te gebruiken."
+
+msgid "Warning: The order total is not identical to the invoice total."
+msgstr "Let op: Het order totaal is niet gelijk aan het factuur totaal."
+
+msgid "Efactuurdirect authentication error."
+msgstr "Efactuurdirect authenticatie fout."
+
+msgid "Check you efactuurdirect API settings:"
+msgstr "Controleer je efactuurdirect API instellingen:"
+
+msgid "Invoice is not created, click to retry."
+msgstr "Factuur is niet aangemaakt, klik om opnieuw te proberen."
+
+msgid "Invoice remark"
+msgstr "Factuur opmerking"
+
+msgid "Invoice textline"
+msgstr "Factuur tekstregel"
+
+msgid "Add custom fields for invoice remark and textline at checkout"
+msgstr "Voeg custom fields voor factuur opmerking en tekstregel toe op de checkout pagina"
+
+msgid "Payment option"
+msgstr "Betaalmethode"
+
+msgid "Select payment method for already paid invoices"
+msgstr "Selecteer betaalmethode voor reeds betaalde facturen"
+
+msgid "ERROR (Connection error)"
+msgstr "ERROR (API fout)"
+
+msgid "API connection method"
+msgstr "API connectie methode"
